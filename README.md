@@ -8,7 +8,7 @@ I have been a Software Developer for 2 years now, but most recently I have moved
 
 *   🌍  I'm based in Los Angles
 *   ✉️  You can contact me at [kailew2020@gmail.com](mailto:kailew2020@gmail.com)
-*   🧠  I'm learning advanced JavaScript
+*   🧠  I'm learning advanced Node.js 
 *   🤝  I'm open to collaborating on new exciting projects<a href="https://www.twitter.com/kailew19" target="_blank" rel="noreferrer">
                  
                 
